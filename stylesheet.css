@@ -102,6 +102,18 @@ h2 {
   font-weight: 700;
 }
 
+.paper-entry,
+.paper-entry p,
+.paper-entry a,
+.paper-entry strong,
+.paper-entry em {
+  font-size: 13px;
+}
+
+.paper-entry .papertitle {
+  font-size: 13px;
+}
+
 .name {
   padding-top: 20px;
   margin: 0;
